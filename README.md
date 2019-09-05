@@ -1,2 +1,3 @@
-Cory Zink
-CoryZ182
+Name:       Cory Zink
+Username:   CoryZ182
+Email:      cz109918@ohio.edu
