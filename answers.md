@@ -53,3 +53,4 @@ Changes not staged for commit:
 Answer 10:  no, online changes were not reflected
 Answer 11:  error occured, data was added to online copy, so local copy failed to              push
 Answer 12:  the online changes were recorded in the local copy
+Answer 13:  .  ..  .git  .gitignore  README.md
